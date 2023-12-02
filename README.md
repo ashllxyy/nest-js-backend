@@ -47,7 +47,7 @@ $ npm run test:cov
 
 ## Author
 
-Arunesh Unnithan (<a href="github.com/ashllxyy">ashllxyy</a>)
+Arunesh Unnithan (<a href="https://github.com/ashllxyy/">ashllxyy</a>)
 
 ## License
 
